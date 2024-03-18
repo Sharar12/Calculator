@@ -74,3 +74,5 @@ Calculator/
 <!-- [2024-03-07] style: refine keypad grid and button interaction styles -->
 
 <!-- [2024-03-18] feat: add calculation history log and clear function -->
+
+<!-- [2024-03-18] refactor: optimize keypress event listeners and edge cases -->
